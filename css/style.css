@@ -3,3 +3,33 @@ body {
     padding: 0px;
     background: #D5E1EF;
 }
+
+.qr-code {
+    background: #FFFFFF;
+    margin: 0 auto;
+    width: 320px;
+    height: 497px;
+    border: 1px solid #979797;
+    border-radius: 10px;
+}
+
+#img-qr-code {
+    max-width: 290px;
+    height: 300px;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+div {
+    margin: 0 auto;
+    width: 288px;
+    height: 129px;
+}
+
+p:first-of-type {
+    font-weight: bold;
+    color: #1F314F;
+    font-size: 22px;
+    align-content: center;
+    
+}
